@@ -20,7 +20,7 @@
         "PauseID": 4, "HighlightID": 5, "GameDuration": 45, "GameNumberOfPause": 4, 
         "GameTeam": "green", "GameInterruption": 1, "GameMinuteOfPause": 30, "GameDurationOfPause": 15, 
         "GameResult": "yellow"},
-        {"EventID": 9, "StadiumID": 3, "RefereeID": "None", "GameID": 92, "TimeID": 8000, "DateID": , 
+        {"EventID": 9, "StadiumID": 3, "RefereeID": "None", "GameID": 92, "TimeID": 8000, "DateID": null, 
         "PauseID": 5, "HighlightID": 6, "GameDuration": 50, "GameNumberOfPause": 5, 
         "GameTeam": "blue", "GameInterruption": 1, "GameMinuteOfPause": 20, "GameDurationOfPause": 10, 
         "GameResult": "blue wins"},
